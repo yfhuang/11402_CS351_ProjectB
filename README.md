@@ -13,3 +13,6 @@ At a high level, the system should support:
 - Displaying query results clearly and consistently
 
 This project emphasizes data parsing, internal representation of tabular data, and the design of a simple execution pipeline for queries. The final result is a mini database engine that demonstrates how structured data can be stored, searched, and queried without a full-scale DBMS.
+
+
+
